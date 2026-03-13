@@ -114,9 +114,10 @@ After running the command, the application will open automatically in your brows
 Developed as a Machine Learning project for learning and portfolio purposes.
 
 
-#Output
-for real : 
+# Output
+
+## for real : 
 <img width="1894" height="908" alt="Image" src="https://github.com/user-attachments/assets/7ac601e5-b78a-42ea-9bdf-17f87d79bfe9" />
 
-for fake: 
+##for fake: 
 <img width="1600" height="702" alt="Image" src="https://github.com/user-attachments/assets/6db94d45-bab2-4a1b-9e11-47e464648fa6" />
