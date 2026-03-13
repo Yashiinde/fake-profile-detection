@@ -114,5 +114,5 @@ After running the command, the application will open automatically in your brows
 Developed as a Machine Learning project for learning and portfolio purposes.
 
 
-##Output
+#Output
 <img width="1894" height="908" alt="Image" src="https://github.com/user-attachments/assets/7ac601e5-b78a-42ea-9bdf-17f87d79bfe9" />
